@@ -1,0 +1,45 @@
+{
+  "id": "matts-foundry-content",
+  "title": "Matt's Foundry Content",
+  "description": "A module containing a collection of mostly homebrew items for DnD 5e games in Foundry.",
+  "authors": [
+    {
+      "name": "Chris3606",
+      "flags": {}
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": [
+    "scripts/module.js"
+  ],
+  "packs": [
+    {
+      "name": "MattsItems",
+      "label": "Matt's Items",
+      "path": "packs/matts-items",
+      "type": "Item",
+      "system": "dnd5e"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Matt's Homebrew Content",
+      "sorting": "a",
+      "color": "#348f2d",
+      "folders": [
+        {
+          "name": "2014",
+          "sorting": "a",
+          "color": "#348f2d",
+          "packs": [
+            "MattsItems"
+          ]
+        }
+      ]
+    }
+  ]
+}
