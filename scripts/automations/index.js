@@ -1,5 +1,7 @@
-import { itemsMacros } from "./items/_index.js";
+import { itemMacros } from "./items/_index.js";
+import { spellMacros } from "./spells/_index.js";
 
 export const automationRegistry = {
-  ...itemsMacros,
+  ...itemMacros,
+  ...spellMacros,
 };

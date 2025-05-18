@@ -23,6 +23,20 @@
       "path": "packs/matts-items",
       "type": "Item",
       "system": "dnd5e"
+    },
+    {
+      "name": "MattsClassFeatures",
+      "label": "Matt's Class Features",
+      "path": "packs/matts-class-features",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "MattsSpells",
+      "label": "Matt's Spells",
+      "path": "packs/matts-spells",
+      "type": "Item",
+      "system": "dnd5e"
     }
   ],
   "packFolders": [
@@ -36,7 +50,9 @@
           "sorting": "a",
           "color": "#348f2d",
           "packs": [
-            "MattsItems"
+            "MattsItems",
+            "MattsClassFeatures",
+            "MattsSpells"
           ]
         }
       ]
