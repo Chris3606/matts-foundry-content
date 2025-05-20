@@ -18,23 +18,16 @@
   ],
   "packs": [
     {
-      "name": "MattsItems",
-      "label": "Matt's Items",
-      "path": "packs/matts-items",
+      "name": "MattsHomebrew",
+      "label": "Matt's Homebrew",
+      "path": "packs/matts-homebrew",
       "type": "Item",
       "system": "dnd5e"
     },
     {
-      "name": "MattsClassFeatures",
-      "label": "Matt's Class Features",
-      "path": "packs/matts-class-features",
-      "type": "Item",
-      "system": "dnd5e"
-    },
-    {
-      "name": "MattsSpells",
-      "label": "Matt's Spells",
-      "path": "packs/matts-spells",
+      "name": "MattsHomebrewAutomationOnly",
+      "label": "Matt's Homebrew (Automation Only)",
+      "path": "packs/matts-homebrew-automation-only",
       "type": "Item",
       "system": "dnd5e"
     }
@@ -44,17 +37,9 @@
       "name": "Matt's Homebrew Content",
       "sorting": "a",
       "color": "#348f2d",
-      "folders": [
-        {
-          "name": "2014",
-          "sorting": "a",
-          "color": "#348f2d",
-          "packs": [
-            "MattsItems",
-            "MattsClassFeatures",
-            "MattsSpells"
-          ]
-        }
+      "packs": [
+        "MattsHomebrew",
+        "MattsHomebrewAutomationOnly"
       ]
     }
   ]
