@@ -15,6 +15,8 @@ There are a number of modules which are required for this module to function:
 - Gambit's Premades (GPS)
 - Cauldron of Plentiful Resources (CPR), formerly Chris's Premades
 - Dnd Beyond Importer (DDBI)
+- Dynamic Active Effects (DAE)
+- Times Up
 
 # Content Overview
 This module contains primarily two compendiums:
