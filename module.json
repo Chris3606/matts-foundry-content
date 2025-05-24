@@ -73,8 +73,8 @@
         "id": "ddb-importer",
         "type": "module",
         "compatibility": {
-          "minimum": "6.2.4",
-          "verified": "6.2.4"
+          "minimum": "6.3.1",
+          "verified": "6.3.1"
         }
       },
       {
