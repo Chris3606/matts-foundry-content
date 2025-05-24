@@ -1,5 +1,10 @@
 # [Unreleased] - Release coming soon!
 
+## Changed
+- Ariel's Final Mercy
+    - Now has fly effect instead of Aura of Purity
+    - Ariel's Blessing effect properly scales with paladin aura radius at level 18.
+
 ## Fixed
 - Time Blur maps to appropriate "ki" resorurce on import
 
