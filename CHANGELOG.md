@@ -1,3 +1,8 @@
+# [Unreleased] - Release coming soon!
+
+## Fixed
+- Time Blur maps to appropriate "ki" resorurce on import
+
 # [v1.0.0] - 2025-05-20
 
 ## Added
