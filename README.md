@@ -18,6 +18,8 @@ There are a number of modules which are required for this module to function:
 - Dynamic Active Effects (DAE)
 - Times Up
 
+Additionally, this module **requires** that you enable the "Elwin's Helpers" in MISC; otherwise some items will not function correctly.
+
 # Content Overview
 This module contains primarily two compendiums:
 

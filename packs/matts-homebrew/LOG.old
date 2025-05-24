@@ -1,14 +1,5 @@
-2025/05/24-07:46:48.034 2d90 Recovering log #26
-2025/05/24-07:46:48.042 2d90 Delete type=0 #26
-2025/05/24-07:46:48.042 2d90 Delete type=3 #24
-2025/05/24-08:12:20.600 93b4 Level-0 table #32: started
-2025/05/24-08:12:20.610 93b4 Level-0 table #32: 27426 bytes OK
-2025/05/24-08:12:20.616 93b4 Delete type=0 #30
-2025/05/24-08:12:20.625 93b4 Manual compaction at level-0 from '!folders!1L6z5UzifqWqgeM5' @ 72057594037927935 : 1 .. '!items.effects!ygFVYgCt2iCH01ur.WJ8QcDPzjhHD7xnm' @ 0 : 0; will stop at '!items.effects!oOZg89t8NMgYxhpq.vfyDGdbaDPUy1Sld' @ 223 : 1
-2025/05/24-08:12:20.625 93b4 Compacting 1@0 + 1@1 files
-2025/05/24-08:12:20.634 93b4 Generated table #33@0: 75 keys, 97015 bytes
-2025/05/24-08:12:20.634 93b4 Compacted 1@0 + 1@1 files => 97015 bytes
-2025/05/24-08:12:20.639 93b4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/05/24-08:12:20.639 93b4 Delete type=2 #28
-2025/05/24-08:12:20.640 93b4 Delete type=2 #32
-2025/05/24-08:12:20.651 93b4 Manual compaction at level-0 from '!items.effects!oOZg89t8NMgYxhpq.vfyDGdbaDPUy1Sld' @ 223 : 1 .. '!items.effects!ygFVYgCt2iCH01ur.WJ8QcDPzjhHD7xnm' @ 0 : 0; will stop at (end)
+2025/05/24-10:16:30.349 90b0 Log #36: 0 ops saved to Table #39 OK
+2025/05/24-10:16:30.350 90b0 Archiving C:\Users\cridl\AppData\Local\FoundryVTT\Data\modules\matts-foundry-content\packs\matts-homebrew/000036.log: OK
+2025/05/24-10:16:30.354 90b0 Table #38: 75 entries OK
+2025/05/24-10:16:30.360 90b0 Archiving C:\Users\cridl\AppData\Local\FoundryVTT\Data\modules\matts-foundry-content\packs\matts-homebrew/MANIFEST-000034: OK
+2025/05/24-10:16:30.364 90b0 **** Repaired leveldb C:\Users\cridl\AppData\Local\FoundryVTT\Data\modules\matts-foundry-content\packs\matts-homebrew; recovered 1 files; 96996 bytes. Some data may have been lost. ****
