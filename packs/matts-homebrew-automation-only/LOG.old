@@ -1,7 +1,5 @@
-2025/05/24-07:46:48.046 90b0 Recovering log #13
-2025/05/24-07:46:48.055 90b0 Delete type=0 #13
-2025/05/24-07:46:48.055 90b0 Delete type=3 #11
-2025/05/24-08:12:20.657 93b4 Level-0 table #19: started
-2025/05/24-08:12:20.657 93b4 Level-0 table #19: 0 bytes OK
-2025/05/24-08:12:20.660 93b4 Delete type=0 #17
-2025/05/24-08:12:20.667 93b4 Manual compaction at level-0 from '!folders!7nItfJ4nW3XcWJTx' @ 72057594037927935 : 1 .. '!items.effects!01LlVMVkXVpOfKL2.ElMxPKkvaJ2s0QUd' @ 0 : 0; will stop at (end)
+2025/05/24-10:16:30.384 2d90 Log #22: 0 ops saved to Table #23 OK
+2025/05/24-10:16:30.385 2d90 Archiving C:\Users\cridl\AppData\Local\FoundryVTT\Data\modules\matts-foundry-content\packs\matts-homebrew-automation-only/000022.log: OK
+2025/05/24-10:16:30.388 2d90 Table #15: 20 entries OK
+2025/05/24-10:16:30.393 2d90 Archiving C:\Users\cridl\AppData\Local\FoundryVTT\Data\modules\matts-foundry-content\packs\matts-homebrew-automation-only/MANIFEST-000020: OK
+2025/05/24-10:16:30.398 2d90 **** Repaired leveldb C:\Users\cridl\AppData\Local\FoundryVTT\Data\modules\matts-foundry-content\packs\matts-homebrew-automation-only; recovered 1 files; 15750 bytes. Some data may have been lost. ****
