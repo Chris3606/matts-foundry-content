@@ -1,12 +1,12 @@
-# [Unreleased] - Release coming soon!
+# [Unreleased Changes]
+None
 
-## Added
-- Lost Lullaby
+# [v1.1.0] - 2025-05-24
 
 ## Changed
 - Ariel's Final Mercy
     - Now has fly effect instead of Aura of Purity
-    - Ariel's Blessing effect properly scales with paladin aura radius at level 18
+    - Ariel's Blessing effect properly scales with paladin aura radius at level 18.
 
 ## Fixed
 - Time Blur maps to appropriate "ki" resorurce on import
