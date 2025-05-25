@@ -1,5 +1,14 @@
 # [Unreleased Changes]
-None
+
+## Changed
+- Automation targets now exist for Haste and other spells which are used on items
+
+## Fixed
+- Boots of Hasting now allow proper casting of Haste
+- The Chroma Star now allows proper casting of Chromatic Orb and Prismatic Wall
+- Finger of Ao now allows proper casting of Gate and Plane Shift
+- Freezerburn now allows proper casting of Haste and Slow
+- Lost Lullaby now allows proper casting of Foresight
 
 
 # [v1.2.0] - 2025-05-25
