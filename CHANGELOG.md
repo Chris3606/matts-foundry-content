@@ -1,6 +1,7 @@
 # [Unreleased Changes]
 
 ## Added
+- Boots of Hasting
 - Freezerburn
 - Gem of Truth
 
@@ -11,6 +12,7 @@
 - Ariel's Final Mercy
     - Now has fly effect instead of Aura of Purity
     - Ariel's Blessing effect properly scales with paladin aura radius at level 18.
+- Lost Lullaby
 
 ## Fixed
 - Time Blur maps to appropriate "ki" resorurce on import
