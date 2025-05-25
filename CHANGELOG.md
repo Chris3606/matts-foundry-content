@@ -1,4 +1,8 @@
 # [Unreleased Changes]
+None
+
+
+# [v1.2.0] - 2025-05-25
 
 ## Added
 - Boots of Hasting
