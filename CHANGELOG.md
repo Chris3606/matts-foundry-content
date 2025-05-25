@@ -1,5 +1,8 @@
 # [Unreleased Changes]
-None
+
+## Added
+- Gem of Truth
+
 
 # [v1.1.0] - 2025-05-24
 
@@ -10,6 +13,7 @@ None
 
 ## Fixed
 - Time Blur maps to appropriate "ki" resorurce on import
+
 
 # [v1.0.0] - 2025-05-20
 
