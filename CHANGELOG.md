@@ -1,6 +1,7 @@
 # [Unreleased Changes]
 
 ## Added
+- Freezerburn
 - Gem of Truth
 
 
