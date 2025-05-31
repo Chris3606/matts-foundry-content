@@ -13,6 +13,8 @@
 - Freezerburn now allows proper casting of Haste and Slow
 - Lost Lullaby now allows proper casting of Foresight
 
+## Removed
+- Removed Bardic Inspiration from Matt Custom Homebrew as the DDBI and CPR versions are fixed
 
 # [v1.2.0] - 2025-05-25
 
