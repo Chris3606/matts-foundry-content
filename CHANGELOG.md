@@ -1,5 +1,8 @@
 # [Unreleased Changes]
 
+## Added
+- Vishanu Codex
+
 ## Changed
 - Automation targets now exist for Haste and other spells which are used on items
 
