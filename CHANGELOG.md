@@ -1,5 +1,10 @@
 # [Unreleased Changes]
 
+None
+
+
+# [v1.3.0] - 2025-06-07
+
 ## Added
 - Vishanu Codex
 
@@ -15,6 +20,7 @@
 
 ## Removed
 - Removed Bardic Inspiration from Matt Custom Homebrew as the DDBI and CPR versions are fixed
+
 
 # [v1.2.0] - 2025-05-25
 
