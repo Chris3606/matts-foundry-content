@@ -1,6 +1,8 @@
 # [Unreleased Changes]
 
-None
+## Added
+- Black Lotus (initial version, hardcoded spell slot additions)
+- Dagger of the Dawn
 
 
 # [v1.3.0] - 2025-06-07
