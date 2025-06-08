@@ -2,6 +2,11 @@
 
 None
 
+# [v1.4.1] - 2025-06-08
+
+## Fixed
+- Sapphire Shard now has proper effect (failed to import previously)
+
 
 # [v1.4.0] - 2025-06-08
 
