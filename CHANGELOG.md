@@ -1,8 +1,16 @@
 # [Unreleased Changes]
 
+None
+
+
+# [v1.4.0] - 2025-06-08
+
 ## Added
 - Black Lotus (initial version, hardcoded spell slot additions)
 - Dagger of the Dawn
+
+## Fixed
+- Sapphire Shard now gives correct spell slots (though does not interact with Vishanu Codex properly)
 
 
 # [v1.3.0] - 2025-06-07
