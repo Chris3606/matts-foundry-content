@@ -3,6 +3,7 @@
 ## Added
 - Radiant Ring
 - Blade of the Skylark
+- Dusk and Dawn (both swords)
 
 # [v1.4.1] - 2025-06-08
 
