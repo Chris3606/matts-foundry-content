@@ -2,6 +2,7 @@
 
 ## Added
 - Radiant Ring
+- Blade of the Skylark
 
 # [v1.4.1] - 2025-06-08
 
