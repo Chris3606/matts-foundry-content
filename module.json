@@ -33,16 +33,16 @@
         "id": "midi-qol",
         "type": "module",
         "compatibility": {
-          "minimum": "12.4.51.1",
-          "verified": "12.4.51.1"
+          "minimum": "12.4.54",
+          "verified": "12.4.54"
         }
       },
       {
         "id": "midi-item-showcase-community",
         "type": "module",
         "compatibility": {
-          "minimum": "1.4.9.1",
-          "verified": "1.4.9.1"
+          "minimum": "1.4.10.1",
+          "verified": "1.4.10.1"
         }
       },
       {
@@ -57,32 +57,32 @@
         "id": "chris-premades",
         "type": "module",
         "compatibility": {
-          "minimum": "1.2.36",
-          "verified": "1.2.36"
+          "minimum": "1.2.37",
+          "verified": "1.2.37"
         }
       },
       {
         "id": "gambits-premades",
         "type": "module",
         "compatibility": {
-          "minimum": "1.0.32",
-          "verified": "1.0.32"
+          "minimum": "1.0.51",
+          "verified": "1.0.51"
         }
       },
       {
         "id": "ddb-importer",
         "type": "module",
         "compatibility": {
-          "minimum": "6.3.3",
-          "verified": "6.3.3"
+          "minimum": "6.3.7",
+          "verified": "6.3.7"
         }
       },
       {
         "id": "times-up",
         "type": "module",
         "compatibility": {
-          "minimum": "11.3.21",
-          "verified": "11.3.21"
+          "minimum": "13.1.0",
+          "verified": "13.1.0"
         }
       }
     ]
