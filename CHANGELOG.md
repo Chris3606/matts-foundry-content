@@ -1,10 +1,18 @@
 # [Unreleased Changes]
 
+None
+
+
+# [v1.5.0] - 2025-06-27
+
 ## Added
 - Radiant Ring
 - Blade of the Skylark
 - Dusk and Dawn (both swords)
 - Monster Compass
+- Emei Piercers (Basic Version)
+- Boots of the High Ground (Basic Version)
+
 
 # [v1.4.1] - 2025-06-08
 
